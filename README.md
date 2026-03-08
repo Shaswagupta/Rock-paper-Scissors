@@ -1,1 +1,1 @@
-<p> url "http://127.0.0.1:5500/" <p/>
+<p> url "https://shaswagupta.github.io/Rock-paper-Scissors/" <p/>
